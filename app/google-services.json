@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991813535426",
+    "project_id": "funhub-d351b",
+    "storage_bucket": "funhub-d351b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991813535426:android:b0429ec1a5df073e7d1d5b",
+        "android_client_info": {
+          "package_name": "com.example.funhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991813535426-b1ps8kk7srj32cjoe8g20lp6vbo3u3ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZxo9Ov_NqhqXUp1yb1JwHFgxNgJm1S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991813535426-b1ps8kk7srj32cjoe8g20lp6vbo3u3ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
